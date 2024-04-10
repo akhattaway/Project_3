@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # ignore Data_Resources folder
-../Project_3/Data_Resources/
+Project_3/Data_Resources/
 
